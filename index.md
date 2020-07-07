@@ -2,7 +2,7 @@
 
 Matematica and Scientific Computing - C\C++
 You can use the [editor on GitHub](https://github.com/mzambrano77/Main/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-Here you can see a new markdown
+### Here you can see a new markdown
 ```markdown
 We can reach the next stage
 
