@@ -1,34 +1,17 @@
 ## MATEMATICA COMPUTACIONAL
 
-Matematica and Scientific Computing - C\C++
-You can use the [editor on GitHub](https://github.com/mzambrano77/Main/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-### Here you can see a new markdown
+This site is devoted to contribute to learning of Mathematics and Computing
+turning into Scientific Computing
+[editor on GitHub](https://github.com/mzambrano77/Main/edit/master/index.md)
+### University - Lectures in Mathematics
 ```markdown
-We can reach the next stage
-
-Marcos Zambrano
-Differential
-Integral
+Analisis Matematico II
+Analisis Matematico III
+Historia de la Ciencia
 ```
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Jekyll](https://jekyllrb.com/) to rebuild the pages in your site.
 
 ```markdown
-Calculo Integral
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
