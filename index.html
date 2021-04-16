@@ -1,12 +1,41 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>WebSite Marcos</title>
+    <title>MATH</title>
+    <script>
+      function myfunc(){
+	  document.getElementById("demo").innerHTML="Paragraph change.";
+      }
+    </script>
   </head>
-  <body>
-    <h1>Applied Mathematics</h1>
-    <p>Main topics</p>
-    <a href="https://duckduckgo.com/"> Free browser </a>
-    </body>
+  <body style="background-color:rgb(155,199,171);">
+    <br><br>
+    <img src="logo.png" alt="imagen" width="500" height="200">
+    <h1 style="font-size:60px;"> Applied Mathematics </h1>
+    <!-- <p id="demo">A paragraph</p> -->
+    <br>
+    <ul>
+      <li><h2>Teaching</h2></li>
+      <li><h2>Research</h2></li>
+      <li><h2>Software</h2></li>
+    </ul>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+    <br>
+    <!-- TEX -->
+    $$
+    \begin{equation}
+    \int_1^x f(x)dx = \ln{(x)}
+    \end{equation}
+    $$
+    <button type="button" onclick="myfunc()">Try it</button>
+    <a id="demo" href="https://www.duckduckgo.com">Go to a Free site</a>
+    <!-- these are my comments -->
+    <!-- <style> -->
+    <!--   body {background-color: powderblue;} -->
+    <!--   h1   {color: blue;} -->
+    <!--   p    {color: red;} -->
+    <!-- </style> -->
+    <!-- <p>programming in Fortran</p> -->
+  </body>
 </html>
-
+ 
